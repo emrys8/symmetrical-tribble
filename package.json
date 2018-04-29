@@ -1,0 +1,27 @@
+{
+  "name": "symmetrical-tribble",
+  "version": "1.0.0",
+  "description": "A JSON patcher and Image Thumbnail Creation Microservice, built with Node.js, Express.js and Seneca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrys8/symmetrical-tribble.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrys8/symmetrical-tribble/issues"
+  },
+  "homepage": "https://github.com/emrys8/symmetrical-tribble#readme",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
